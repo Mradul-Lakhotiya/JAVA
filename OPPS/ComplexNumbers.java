@@ -10,7 +10,6 @@ public class Complex {
         imag = i;
     }
 
-    // Add getters and setters for better encapsulation
     public int getReal() {
         return real;
     }
@@ -80,7 +79,6 @@ public class ComplexNumbers {
         } while (choice != 4);
     }
 
-    // Add methods for arithmetic operations
     public static Complex add(Complex a, Complex b) {
         return new Complex(a.getReal() + b.getReal(), a.getImag() + b.getImag());
     }
