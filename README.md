@@ -17,7 +17,7 @@ Includes Java code demonstrating the use of conditional statements, such as if, 
 ## [Functions](Functions)
 Encompasses Java code related to function declarations, definitions, and function calls.
 
-## [Loops](Loops)
+## [Loops](loops)
 Contains Java code illustrating various types of loops, including for, while, and do-while loops.
 
 ## [String](String)
