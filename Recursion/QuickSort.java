@@ -12,7 +12,7 @@ public class QuickSort {
     }
 
     public static int partition(int[] arr, int start, int end) {
-        int pivot = arr[end];
+        int pivot = arr[end]; 
         int new_pivot_location = end;
         int i = start - 1;
 
